@@ -5,3 +5,13 @@ Teaching Instructions:
 - You need to help the student transcribe the sentence into Japanese
 
 Student Input: Bears are at the door, did you leave th garbage out?
+
+----------------------------------------------
+Results: 
+- It gave us the answer. Too much information
+- All we want is basic vocabulary
+As a student we need to figure out:
+- The order of words.
+- particles
+- conjugation
+
