@@ -10,6 +10,7 @@ Student Input: Bears are at the door, did you leave th garbage out?
 Results: 
 - It gave us the answer. Too much information
 - All we want is basic vocabulary
+- Did not transcribe the text with japanese lettering
 As a student we need to figure out:
 - The order of words.
 - particles
